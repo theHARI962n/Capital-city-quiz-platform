@@ -10,6 +10,7 @@ Keeps track of the user's total score.
 
 Provides immediate feedback on whether the user's answer was correct or incorrect.
 
+
 Supports restarting the quiz after completion.
 
 
